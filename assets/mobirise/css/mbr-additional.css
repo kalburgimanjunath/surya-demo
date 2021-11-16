@@ -2429,38 +2429,6 @@ a {
     top: 114%;
   }
 }
-.cid-sOLz3yHpp6 {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
-  background-color: #ffffff;
-}
-.cid-sOLz3yHpp6 .mbr-section-title,
-.cid-sOLz3yHpp6 .mbr-section-subtitle {
-  text-align: center;
-}
-.cid-sOLz3yHpp6 .cost {
-  word-break: normal;
-}
-.cid-sOLz3yHpp6 .card-wrapper {
-  margin-bottom: 2rem;
-  border-radius: 4px;
-  background: #fafafa;
-}
-.cid-sOLz3yHpp6 .card-wrapper .top-line {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-}
-@media (min-width: 768px) {
-  .cid-sOLz3yHpp6 .card-wrapper {
-    padding: 2rem;
-  }
-}
-@media (max-width: 767px) {
-  .cid-sOLz3yHpp6 .card-wrapper {
-    padding: 1rem;
-  }
-}
 .cid-sOLz3zviIG {
   padding-top: 5rem;
   padding-bottom: 5rem;
