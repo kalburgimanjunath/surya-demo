@@ -1,2 +1,0 @@
-# surya-demo
-GitHub Pages
